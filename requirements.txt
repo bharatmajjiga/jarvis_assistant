@@ -1,0 +1,10 @@
+# Pinned to versions verified together in a clean Python 3.12.3 environment
+# (see Dockerfile — python:3.12.3-slim-bookworm) on 2026-09-20.
+pyttsx3==2.99
+anthropic==1.7.0
+openwakeword==0.4.0
+vosk==0.3.45
+sounddevice==0.5.6
+piper-tts==1.8.0
+numpy==2.5.3
+onnxruntime==1.30.0

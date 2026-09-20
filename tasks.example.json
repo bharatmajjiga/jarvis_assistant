@@ -1,0 +1,10 @@
+{
+    "date": "auto",
+    "events": [
+      {"time": "09:00", "title": "Team sync call", "priority": "high"},
+      {"time": "11:00", "title": "Review pull requests", "priority": "medium"},
+      {"time": "13:00", "title": "Lunch break", "priority": "low"},
+      {"time": "15:00", "title": "Demo prep", "priority": "high"},
+      {"time": "18:00", "title": "Gym", "priority": "low"}
+    ]
+  }

@@ -1,0 +1,15 @@
+{
+  "wake_time": "07:00",
+  "assistant_name": "JARVIS",
+  "user_name": "Sir",
+  "check_interval_seconds": 20,
+  "snooze_minutes": 5,
+  "tts_enabled": true,
+  "tts_engine": "auto",
+  "piper_voice": "en_GB-alan-medium",
+  "piper_length_scale": 1.0,
+  "piper_volume": 1.0,
+  "tts_rate": 155,
+  "tts_volume": 0.9,
+  "anthropic_api_key_env": "ANTHROPIC_API_KEY"
+}

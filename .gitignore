@@ -1,0 +1,9 @@
+wake_log.txt
+tasks.json
+models/
+venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+.python-version

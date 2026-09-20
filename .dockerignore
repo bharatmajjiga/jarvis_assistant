@@ -1,0 +1,6 @@
+models/
+wake_log.txt
+__pycache__/
+*.pyc
+venv/
+.venv/
